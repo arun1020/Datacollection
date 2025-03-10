@@ -1,0 +1,23 @@
+label{
+    color:whitesmoke;
+}
+
+#i1{
+    background-color: blue;
+}
+#B1{
+    border-radius: 12px;
+    border: 3px solid #04AA6D
+}
+.Data_point{
+    background-color: darkgrey;
+    border-radius: 5px;
+    width: 30%;
+    display: inline-block;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-color: blue;
+    border-width: 1%;
+
+
+}
